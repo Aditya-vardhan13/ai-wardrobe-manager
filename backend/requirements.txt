@@ -1,0 +1,12 @@
+fastapi==0.118.0
+uvicorn[standard]==0.37.0
+python-multipart==0.0.20
+python-decouple==3.8
+pydantic==2.11.10
+supabase==2.3.0
+google-generativeai==0.8.3
+pillow==10.2.0
+numpy==1.26.3
+python-jose[cryptography]==3.3.0
+PyJWT==2.8.0
+httpx==0.25.2
